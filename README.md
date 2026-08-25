@@ -36,7 +36,7 @@
 ```
 
 ---
-
+<img src="screenshot.png" alt="screenshot" width="100%">
 ## ✨ Features & Modules Overview
 
 ### 1. 💬 AI Chat Studio
